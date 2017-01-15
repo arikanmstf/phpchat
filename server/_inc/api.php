@@ -2,7 +2,7 @@
 /**
 * MainClass
 */
-define('DATAFOLDER', '/var/www/phpchat/server/data/');
+define('DATAFOLDER', '/var/www/html/phpchat/server/data/');
 define('USERLISTFILANAME', 'userList');
 define('MESSAGELISTFILENAME', 'messageList_');
 error_reporting(E_ALL);

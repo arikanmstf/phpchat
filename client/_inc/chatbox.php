@@ -7,7 +7,7 @@
 <script type="text/javascript" src="js/api.js"></script>
 <script type="text/javascript">
 var opts = {
-    wsUri  : "ws://192.168.2.20:9000/chat2/server/server.php",
+    wsUri  : "ws://192.168.1.26:9000/phpchat/server/server.php",
     USERID : USERID,
     USERNAME:USERNAME,
     maximumMessageNo:30

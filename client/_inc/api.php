@@ -22,12 +22,12 @@
 	}
 	class Session{
 		protected $users = Array(
-				'chrome' => 123456,
-				'firefox'=> 112233,
-				'osman'  => 123457,
-				'test'	 => 235444,
-				'demo'   => 132322,
-				'polo'	 => 313132
+				'mustafa' => 123456,
+				'hazal'=> 112233,
+				'nilgun'  => 123457,
+				'orhan'	 => 235444,
+				'tuuce'   => 132322,
+				'tuuba'	 => 313132
 		);
 
 		function Session(){
